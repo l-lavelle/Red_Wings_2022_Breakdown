@@ -1,0 +1,8 @@
+## Checkpoints for notebook
+.ipynb_checkpoints/
+
+## Json from api
+Indiviual Game Data/
+
+## Dataframes created 
+*.csv
